@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://github.com/lamachina/AlphasTemple/
+https://lamachina.github.io/AlphasTemple/
 
 ## Available Scripts
 
