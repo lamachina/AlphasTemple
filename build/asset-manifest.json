@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/AlphasTemple/static/css/main.d817a968.css",
+    "main.js": "/AlphasTemple/static/js/main.88ad4852.js",
+    "static/media/image-transform.png": "/AlphasTemple/static/media/image-transform.7cdd41fccc602472043c.png",
+    "static/media/image-header.png": "/AlphasTemple/static/media/image-header.632c922542255d980bae.png",
+    "static/media/image-graphic-design.png": "/AlphasTemple/static/media/image-graphic-design.f8e536abdce54d0dfe41.png",
+    "static/media/image-gallery-sugarcubes.png": "/AlphasTemple/static/media/image-gallery-sugarcubes.5104a22fe6b8cda36f0c.png",
+    "static/media/image-photography.png": "/AlphasTemple/static/media/image-photography.24cc3b94e2cf1a4d365f.png",
+    "static/media/logo.png": "/AlphasTemple/static/media/logo.83aea63567e3d8a1c24b.png",
+    "static/media/image-gallery-orange.png": "/AlphasTemple/static/media/image-gallery-orange.f8f2a0f3631360a959ad.png",
+    "static/media/bgsecone.png": "/AlphasTemple/static/media/bgsecone.0bfb4f8f5ae2a2ec9833.png",
+    "static/media/image-gallery-milkbottles.png": "/AlphasTemple/static/media/image-gallery-milkbottles.955f0637a01e41b21954.png",
+    "static/media/image-stand-out.png": "/AlphasTemple/static/media/image-stand-out.798ad888f72d98c628f6.png",
+    "static/media/image-gallery-cone.png": "/AlphasTemple/static/media/image-gallery-cone.a370627d6d54f4d2de4b.png",
+    "static/media/logo3bis.png": "/AlphasTemple/static/media/logo3bis.f0875f272b0ca37a2aed.png",
+    "static/media/logo3.png": "/AlphasTemple/static/media/logo3.874203d56ff5d1ea704b.png",
+    "static/media/ATC_l3ogo.png": "/AlphasTemple/static/media/ATC_l3ogo.6df797b355fd36552e0d.png",
+    "static/media/ATCLOGO.png": "/AlphasTemple/static/media/ATCLOGO.d254a0020b1ca2c6804e.png",
+    "static/media/image-gallery-milkbottles.jpg": "/AlphasTemple/static/media/image-gallery-milkbottles.df1d9d8460e873924250.jpg",
+    "static/media/ATCLOGO.svg": "/AlphasTemple/static/media/ATCLOGO.21b5314a82c65cedf4079b30b3a67f43.svg",
+    "static/media/image-gallery-sugarcubes.jpg": "/AlphasTemple/static/media/image-gallery-sugarcubes.09b72f4fbfbf08579f9d.jpg",
+    "static/media/image-gallery-orange.jpg": "/AlphasTemple/static/media/image-gallery-orange.49f4212bc650862672a7.jpg",
+    "static/media/image-graphic-design.jpg": "/AlphasTemple/static/media/image-graphic-design.7ac8bdf0d3df29591a3b.jpg",
+    "static/media/image-photography.jpg": "/AlphasTemple/static/media/image-photography.104cf40b52f66520afb0.jpg",
+    "static/media/logo.svg": "/AlphasTemple/static/media/logo.4271b8992622e4dd1cc7.svg",
+    "static/media/icon-instagram.svg": "/AlphasTemple/static/media/icon-instagram.7d97118aca6da4dd308f.svg",
+    "index.html": "/AlphasTemple/index.html",
+    "static/media/icon-pinterest.svg": "/AlphasTemple/static/media/icon-pinterest.fd8b84da3f15023f2ae8.svg",
+    "static/media/icon-twitter.svg": "/AlphasTemple/static/media/icon-twitter.23df5d421d6e70c35715.svg",
+    "static/media/icon-facebook.svg": "/AlphasTemple/static/media/icon-facebook.101bd07e99eaeae8b0f5.svg",
+    "static/media/icon-arrow-down.svg": "/AlphasTemple/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
+    "static/media/icon-hamburger.svg": "/AlphasTemple/static/media/icon-hamburger.7764b7eb6060edb45161f8b146f1373c.svg",
+    "main.d817a968.css.map": "/AlphasTemple/static/css/main.d817a968.css.map",
+    "main.88ad4852.js.map": "/AlphasTemple/static/js/main.88ad4852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d817a968.css",
+    "static/js/main.88ad4852.js"
+  ]
+}

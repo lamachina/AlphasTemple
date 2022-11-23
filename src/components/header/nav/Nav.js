@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Styles from "../../../styles/App.module.scss";
 import ATCLOGO from "../../../assets/desktop/ATCLOGO.svg"
 import logoMenu from "../../../assets/icon-hamburger.svg";
@@ -12,15 +12,29 @@ const Nav = () => {
         setIsOpen(!isOpen);
     }
 
+    const [Navbar, setNavbar] = useState(false)
+    useEffect(() => {
+        changeBackground()
+        // adding the event when scroll change Logo
+        window.addEventListener("scroll", changeBackground)
+    })
+    const changeBackground = () => {
+        console.log(window.scrollY)
+        if (window.scrollY >= 800) {
+            setNavbar(true)
+        } else {
+            setNavbar(false)
+        }
+    }
 
     return (
-        <nav className={Styles.nav}>
+        <nav id={Navbar ? 'navi' : ''} className={Styles.nav}>
             <div className={Styles.nav_mobile}>
                 <div className={Styles.nav_logo}>
                     <img src={ATCLOGO} alt="logo" />
                 </div>
                 <div className={Styles.nav_menu_mobile}>
-                    <button type="button" onClick={toggleMenu}><img src={logoMenu} alt="hamburger menu" /></button>
+                    <button type="button" onClick={toggleMenu}><img className="bgm" src={logoMenu} alt="hamburger menu" /></button>
                 </div>
             </div>
             <ul className={`${Styles.nav_list} ${isOpen ? Styles.nav_list_show : ""}`}>
@@ -30,7 +44,7 @@ const Nav = () => {
                     )
                 })}
             </ul>
-        </nav>
+        </nav >
     )
 }
 

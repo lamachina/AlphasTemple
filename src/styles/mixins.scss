@@ -55,16 +55,21 @@
 }
 
 @mixin navStyle {
+
     .nav {
         display: flex;
         align-items: center;
-        background-color: var.$third_color;
         padding-top: 1rem;
         padding-bottom: 1rem;
         font-family: var.$barlow;
+        position: fixed;
+        background-color: var.$third_color_opa;
+        width: 50%;
+
+
 
         img {
-            width: 79px;
+            width: 39px;
             height: auto;
         }
 
@@ -163,7 +168,7 @@
     h1 {
         //color: rgb(236, 236, 236);
         text-align: center;
-        background-image: url("../assets/desktop/image-header.png");
+        background-image: url("../assets/desktop/image-graphic-design.png");
         padding: 1rem;
         -webkit-background-clip: text;
         -moz-background-clip: text;
@@ -172,7 +177,8 @@
     }
 
     .bg_img {
-        background-image: url(var.$bg_sectionOne);
+        /*  background-image: url(var.$bg_sectionOne); */
+        background-color: var.$third_color;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: top;
