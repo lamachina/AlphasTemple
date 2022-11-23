@@ -1,0 +1,88 @@
+{
+    "navbarComponent": [
+        {
+            "name": "About",
+            "link": "/"
+        },
+        {
+            "name": "Services",
+            "link": "/"
+        },
+        {
+            "name": "Project",
+            "link": "/"
+        },
+        {
+            "name": "contact",
+            "link": "/"
+        }
+    ],
+    "sectionOneComponent": {
+        "title": "Alphas temple Capital"
+    },
+    "sectionTwoComponent": {
+        "blocOne": {
+            "title": "DCA Intel. Robot",
+            "paragraph": "We are a full-service intelligence agency specializing in helping compagny grow securely. Engage your clients througth compelling methods that do most of the marketing for you.",
+            "link": "learn more"
+        },
+        "blocTwo": {
+            "title": "Step out to the right audience",
+            "paragraph": "Using a collaborative formula of researchers, traders, and engineers, we'll build and extend your risk strategy in digital places",
+            "link": "learn more"
+        },
+        "blocThree": {
+            "title": "Graphic Design",
+            "paragraph": "Great design makes you memorable. We deliver artwork that underscores your band message and captures potential clients'attention"
+        },
+        "blocFour": {
+            "title": "Photography",
+            "paragraph": "Increase your credibility by getting the most stunning, high-quality photos that improve your business image"
+        }
+    },
+    "sectionThreeComponent": {
+        "title": "SUPPORTED BY TOP TIER INVESTORS",
+        "blocOne": {
+            "paragraph": "We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.",
+            "name": "Dubai Angel Investors",
+            "job": "DAI"
+        },
+        "blocTwo": {
+            "paragraph": "Sunnyside’s enthusiasm coupled with their keen interest in our brand’s success made it a satisfying and enjoyable experience.",
+            "name": "Thomas S.",
+            "job": "Chief Operating Officer"
+        },
+        "blocThree": {
+            "paragraph": "Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!",
+            "name": "Jennie F.",
+            "job": "Business Owner"
+        }
+    },
+    "footerComponent": {
+        "title": "Alphas Temple Capital",
+        "list": [
+            {
+                "name": "About",
+                "link": "/"
+            },
+            {
+                "name": "Services",
+                "link": "/"
+            },
+            {
+                "name": "Project",
+                "link": "/"
+            }
+        ],
+        "logoList": [
+            {
+                "name": "icon-instagram.svg",
+                "link": "/"
+            },
+            {
+                "name": "icon-twitter.svg",
+                "link": "/"
+            }
+        ]
+    }
+}
