@@ -1,8 +1,6 @@
 # Getting Started with Create React App
 
-Project link: https://classy-gingersnap-836aa2.netlify.app/
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/lamachina/AlphasTemple/settings/pages
 
 ## Available Scripts
 
