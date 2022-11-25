@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AlphasTemple/static/css/main.f8a62261.css",
-    "main.js": "/AlphasTemple/static/js/main.cb4f5af9.js",
+    "main.css": "/AlphasTemple/static/css/main.2b15e95c.css",
+    "main.js": "/AlphasTemple/static/js/main.4775dbac.js",
     "static/media/image-transform.png": "/AlphasTemple/static/media/image-transform.7cdd41fccc602472043c.png",
     "static/media/image-header.png": "/AlphasTemple/static/media/image-header.632c922542255d980bae.png",
     "static/media/image-graphic-design.png": "/AlphasTemple/static/media/image-graphic-design.f8e536abdce54d0dfe41.png",
@@ -31,11 +31,11 @@
     "static/media/icon-facebook.svg": "/AlphasTemple/static/media/icon-facebook.101bd07e99eaeae8b0f5.svg",
     "static/media/icon-arrow-down.svg": "/AlphasTemple/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
     "static/media/icon-hamburger.svg": "/AlphasTemple/static/media/icon-hamburger.7764b7eb6060edb45161f8b146f1373c.svg",
-    "main.f8a62261.css.map": "/AlphasTemple/static/css/main.f8a62261.css.map",
-    "main.cb4f5af9.js.map": "/AlphasTemple/static/js/main.cb4f5af9.js.map"
+    "main.2b15e95c.css.map": "/AlphasTemple/static/css/main.2b15e95c.css.map",
+    "main.4775dbac.js.map": "/AlphasTemple/static/js/main.4775dbac.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8a62261.css",
-    "static/js/main.cb4f5af9.js"
+    "static/css/main.2b15e95c.css",
+    "static/js/main.4775dbac.js"
   ]
 }
