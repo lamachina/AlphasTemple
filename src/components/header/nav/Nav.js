@@ -20,15 +20,16 @@ const Nav = () => {
     })
     const changeBackground = () => {
         console.log(window.scrollY)
-        if (window.scrollY >= 800) {
+        if (window.scrollY >= 720 && window.scrollY < 2200) {
             setNavbar(true)
-        } else {
+        }
+        else {
             setNavbar(false)
         }
     }
 
     return (
-        <nav id={Navbar ? 'navi' : ''} className={Styles.nav}>
+        <nav className={Navbar ? Styles.nav : Styles.navi}>
             <div className={Styles.nav_mobile}>
                 <div className={Styles.nav_logo}>
                     <img src={ATCLOGO} alt="logo" />
@@ -44,7 +45,7 @@ const Nav = () => {
                     )
                 })}
             </ul>
-        </nav >
+        </nav>
     )
 }
 
